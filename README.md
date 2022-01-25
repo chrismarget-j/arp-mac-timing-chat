@@ -1,3 +1,3 @@
 Fallout from a conversation with Jeremy
 
-![image](arp-mac-timing-chat.png)
+![image](arp-mac-timing-chat.drawio.png)
